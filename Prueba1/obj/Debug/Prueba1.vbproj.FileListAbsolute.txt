@@ -1,0 +1,10 @@
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.xml
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.Resources.resources
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.vbproj.GenerateResource.Cache
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.xml
+C:\Users\operaciones3\Documents\Visual Studio 2008\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
